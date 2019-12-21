@@ -1,8 +1,8 @@
 .header {
-  background-color: #2C323C;
-  background-image: url("/assets/images/geometry.svg");
+  background-color: black;
+  background-image: url("/assets/images/aliens.png");
   background-repeat: repeat;
-  color: white;
+  color: magenta;
   min-height: 400px;
   padding: 180px 20px; 
   padding-bottom: 140px;
