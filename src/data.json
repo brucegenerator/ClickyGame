@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/Bishop.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/ripley.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/Burke.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/Hudson.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/Drake.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/Newt.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/Vasquez.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/Hicks.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/Frost.png",
+    "clicked": false
+  }
+]
